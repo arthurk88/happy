@@ -17,7 +17,7 @@ function App() {
         </main>
 
         <div className='location'>
-          <strong>Santo António de Jesus</strong>
+          <strong>Santo Antônio de Jesus</strong>
           <span>Bahia</span>
         </div>
 
