@@ -23,7 +23,7 @@
     flex-direction: column;
     justify-content: space-between;
 
-    background: url('../../imagens/crianca.svg') no-repeat 60% center;
+    background: url('../imagens/crianca.svg') no-repeat 60% center;
     background-size: 37%;
     
 }
